@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eduardotecnologo/robos/issues"
   },
-  "homepage": "https://github.com/eduardotecnologo/robos#readme"
+  "homepage": "https://github.com/eduardotecnologo/robos#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
